@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: Lazy gm
+## Author: Owl
+## Version: 0.10
+
+main.lua
+--sniptest.lua
